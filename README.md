@@ -33,5 +33,5 @@ Lors de la sauvegarde de l'annuaire, les informations ne sont pas écrites sur l
 ▶️ **Utilisation**<br>
 Pour exécuter l'application, exécutez le fichier principal main.py. Assurez-vous d'avoir PyQt installé sur votre système.
 
-🔗 **Références**
+🔗 **Références**<br>
 PyQt Documentation v6.2.1
