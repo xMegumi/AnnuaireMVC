@@ -35,4 +35,3 @@ Pour exécuter l'application, exécutez le fichier principal Controller.py. Assu
 
 🔗 **Références**<br>
 PyQt Documentation v6.2.1<br>
-[AnnuaireMVC sur GitHub](https://github.com/xMegumi/AnnuaireMVC)
