@@ -2,7 +2,7 @@
 
 Ce projet correspond au développement d'une application permettant de parcourir un annuaire en respectant la séparation entre la vue et le modèle, utilisant le motif Modèle-Vue-Contrôleur (**MVC**). L'application a été conçue dans le cadre des travaux pratiques du cours "R2.02 : développement d'application avec IHM".
 
-📝 **Description**
+📝 **Description**<br>
 L'application se présente avec une interface utilisateur permettant d'afficher les détails d'une personne de l'annuaire, ainsi que des boutons de navigation pour passer d'une personne à une autre, créer une nouvelle personne, charger un annuaire et sauvegarder un annuaire. Les données de l'annuaire sont stockées dans un fichier au format JSON.
 
 🛠️ **Étapes de développement**<br>
