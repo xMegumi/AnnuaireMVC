@@ -31,7 +31,7 @@ Lors de la création ou de la modification d'une personne, l'utilisateur peut sp
 Lors de la sauvegarde de l'annuaire, les informations ne sont pas écrites sur le fichier de sauvegarde actuel. Au lieu de cela, l'utilisateur doit choisir de créer un nouveau fichier ou d'écraser le fichier de sauvegarde précédent. Des informations sur les types d'erreurs rencontrées sont affichées dans la console pour informer l'utilisateur sur les problèmes éventuels lors de la sauvegarde.
 
 ▶️ **Utilisation**<br>
-Pour exécuter l'application, exécutez le fichier principal main.py. Assurez-vous d'avoir PyQt installé sur votre système.
+Pour exécuter l'application, exécutez le fichier principal Controller.py. Assurez-vous d'avoir PyQt installé sur votre système.
 
 🔗 **Références**<br>
 PyQt Documentation v6.2.1
