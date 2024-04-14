@@ -34,5 +34,5 @@ Lors de la sauvegarde de l'annuaire, les informations ne sont pas écrites sur l
 Pour exécuter l'application, exécutez le fichier principal Controller.py. Assurez-vous d'avoir PyQt installé sur votre système.
 
 🔗 **Références**<br>
-PyQt Documentation v6.2.1
+PyQt Documentation v6.2.1<br>
 [AnnuaireMVC sur GitHub](https://github.com/xMegumi/AnnuaireMVC)
